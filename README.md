@@ -1,12 +1,13 @@
 # wikimovies project
 
-Wikimovies is a django RESTful api for retrieving the movies data from database
-check the [title](https://movieswiki.herokuapp.com/)
+Wikimovies is a django RESTful api for retrieving the movies data from database.
+check the [link](https://movieswiki.herokuapp.com/) deployed on heroku.
 
 ## setup venv
 
 ```sh
 python3 -m venv venv
+source venv/bin/activate
 ```
 
 ## install requirements
